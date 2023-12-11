@@ -140,4 +140,15 @@ body {
     height: 90%;
     background-color: var(--window-color4);
 }
+/* FOREGROUND BUILDINGS - "fb" stands for "foreground building" */
+.fb1 {
+    width: 10%;
+    height: 60%;
+}
+  
+.fb1a {
+    border-bottom: 7vh solid var(--building-color4);
+    border-left: 2vw solid transparent;
+    border-right: 2vw solid transparent;
+}
   
